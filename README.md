@@ -18,10 +18,20 @@
 
 <p align="center">
 Mastering Rust 🦀  
+</p>
+<p align="center">
 Revisiting Javascript (Typescript, React)  
+</p>
+<p align="center">
 Revisiting AWS (Solutions Architect)  
+</p>
+<p align="center">
 Smart Contracts (Solidity, Move)  
+</p>
+<p align="center">
 System Design  
+</p>
+<p align="center">
 Coding Patterns  
 </p>
 
