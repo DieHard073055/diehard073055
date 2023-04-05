@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img alig src="https://github-readme-stats.vercel.app/api/top-langs/?username=diehard073055&layout=compact&theme=radical&card_width=700" />
+  <img alig src="https://github-readme-stats.vercel.app/api/top-langs/?username=diehard073055&theme=radical&card_width=700" />
 </p>
 <p align="center">
   <img alig src="https://streak-stats.demolab.com?user=diehard073055&theme=dark&hide_border=true" />
