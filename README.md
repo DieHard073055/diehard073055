@@ -7,14 +7,6 @@
   <img alig src="/assets/saitama_training.gif" />
 </p>
 
-<!--<ul align="center" style="list-style-type: none;">
-<li> Mastering Rust 🦀 </li>
-<li> Revisiting Javascript (Typescript, React)</li>
-<li> Revisiting AWS (Solutions Architect)</li>
-<li> Smart Contracts (Solidity, Move)</li>
-<li> System Design</li>
-<li> Coding Patterns</li>
-</ul> -->
 
 <p align="center">
 Mastering Rust 🦀  
@@ -40,10 +32,13 @@ Coding Patterns
   <img alig src="/assets/Izuku_uses_Faux_100.gif" />
 </p>
 
-<ul align="center" style="list-style-type: none;">
-<li> 📈 <a href="https://github.com/DieHard073055/solid-carnival">Trading Exchange Simulator</a></li>
-<li> 🖥  <a href="https://github.com/DieHard073055/super-duper-octo-disc">LeetCode</a></li>
-</ul>
+<p align="center">
+ 📈 <a href="https://github.com/DieHard073055/solid-carnival">Trading Exchange Simulator</a></li>
+</p>
+<p align="center">
+ 🖥  <a href="https://github.com/DieHard073055/super-duper-octo-disc">LeetCode</a></li>
+</p>
+
 
 <h2 align="center">Telemetry  🛰</h2>
 <!--START_SECTION:waka-->
