@@ -7,14 +7,21 @@
   <img alig src="/assets/saitama_training.gif" />
 </p>
 
-<ul align="center" style="list-style-type: none;">
+<!--<ul align="center" style="list-style-type: none;">
 <li> Mastering Rust 🦀 </li>
 <li> Revisiting Javascript (Typescript, React)</li>
 <li> Revisiting AWS (Solutions Architect)</li>
 <li> Smart Contracts (Solidity, Move)</li>
 <li> System Design</li>
 <li> Coding Patterns</li>
-</ul>
+</ul> -->
+Mastering Rust 🦀  
+Revisiting Javascript (Typescript, React)  
+Revisiting AWS (Solutions Architect)  
+Smart Contracts (Solidity, Move)  
+System Design  
+Coding Patterns  
+
 
 <h2 align="center">Repos I am currently working on </h2>
 <p align="center">
