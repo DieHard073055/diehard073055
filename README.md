@@ -15,13 +15,15 @@
 <li> System Design</li>
 <li> Coding Patterns</li>
 </ul> -->
+
+<p align="center">
 Mastering Rust 🦀  
 Revisiting Javascript (Typescript, React)  
 Revisiting AWS (Solutions Architect)  
 Smart Contracts (Solidity, Move)  
 System Design  
 Coding Patterns  
-
+</p>
 
 <h2 align="center">Repos I am currently working on </h2>
 <p align="center">
