@@ -58,7 +58,5 @@
 <!--END_SECTION:activity-->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/assets/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="/assets/github-snake.svg" />
-  <img alt="github-snake" src="/assets/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DieHard073055/diehard073055/output/github-contribution-grid-snake-dark.svg" />
 </picture>
