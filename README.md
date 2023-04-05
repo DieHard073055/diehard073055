@@ -7,7 +7,7 @@
   <img alig src="/assets/saitama_training.gif" />
 </p>
 
-<ul>
+<ul align="center" style="list-style-type: none;">
 <li> Mastering Rust 🦀 </li>
 <li> Revisiting Javascript (Typescript, React)</li>
 <li> Revisiting AWS (Solutions Architect)</li>
@@ -21,7 +21,7 @@
   <img alig src="/assets/Izuku_uses_Faux_100.gif" />
 </p>
 
-<ul>
+<ul align="center" style="list-style-type: none;">
 <li> 📈 <a href="https://github.com/DieHard073055/solid-carnival">Trading Exchange Simulator</a></li>
 <li> 🖥  <a href="https://github.com/DieHard073055/super-duper-octo-disc">LeetCode</a></li>
 </ul>
