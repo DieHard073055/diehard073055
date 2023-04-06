@@ -42,6 +42,19 @@ Coding Patterns
 
 <h2 align="center">Telemetry  🛰</h2>
 <!--START_SECTION:waka-->
+
+```text
+From: 04 April 2023 - To: 05 April 2023
+
+Total Time: 1 hr 57 mins
+
+Markdown   1 hr 14 mins    >>>>>>>>>>>>>>>>---------   63.74 %
+YAML       35 mins         >>>>>>>------------------   29.93 %
+Rust       6 mins          >------------------------   05.38 %
+Lua        1 min           -------------------------   00.91 %
+Other      0 secs          -------------------------   00.03 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
