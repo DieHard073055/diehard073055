@@ -58,7 +58,8 @@ Other        0 secs          -------------------------   00.01 %
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img alig src="https://wakatime.com/share/@e5cdae17-ff21-447b-88c4-dbcea5d0baa2/4578abe6-1ecf-4208-bbce-9cfc08a143ad.svg" />
+  <img width="500" alig src="https://wakatime.com/share/@e5cdae17-ff21-447b-88c4-dbcea5d0baa2/4578abe6-1ecf-4208-bbce-9cfc08a143ad.svg" />
+  <img width="500" alig src="https://wakatime.com/share/@e5cdae17-ff21-447b-88c4-dbcea5d0baa2/408d90d5-b838-4730-880e-a778bf51a460.svg" />
 </p>
 
 <p align="center">
