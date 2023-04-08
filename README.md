@@ -78,11 +78,11 @@ Other        0 secs          -------------------------   00.01 %
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/DieHard073055/solid-carnival/issues/10) in [DieHard073055/solid-carnival](https://github.com/DieHard073055/solid-carnival)
-2. 🎉 Merged PR [#9](https://github.com/DieHard073055/solid-carnival/pull/9) in [DieHard073055/solid-carnival](https://github.com/DieHard073055/solid-carnival)
-3. 💪 Opened PR [#9](https://github.com/DieHard073055/solid-carnival/pull/9) in [DieHard073055/solid-carnival](https://github.com/DieHard073055/solid-carnival)
-4. 🎉 Merged PR [#8](https://github.com/DieHard073055/solid-carnival/pull/8) in [DieHard073055/solid-carnival](https://github.com/DieHard073055/solid-carnival)
-5. 💪 Opened PR [#8](https://github.com/DieHard073055/solid-carnival/pull/8) in [DieHard073055/solid-carnival](https://github.com/DieHard073055/solid-carnival)
+1. ❗️ Opened issue [#2](https://github.com/DieHard073055/super-duper-octo-disco/issues/2) in [DieHard073055/super-duper-octo-disco](https://github.com/DieHard073055/super-duper-octo-disco)
+2. ❗️ Opened issue [#1](https://github.com/DieHard073055/super-duper-octo-disco/issues/1) in [DieHard073055/super-duper-octo-disco](https://github.com/DieHard073055/super-duper-octo-disco)
+3. ❗️ Opened issue [#10](https://github.com/DieHard073055/solid-carnival/issues/10) in [DieHard073055/solid-carnival](https://github.com/DieHard073055/solid-carnival)
+4. 🎉 Merged PR [#9](https://github.com/DieHard073055/solid-carnival/pull/9) in [DieHard073055/solid-carnival](https://github.com/DieHard073055/solid-carnival)
+5. 💪 Opened PR [#9](https://github.com/DieHard073055/solid-carnival/pull/9) in [DieHard073055/solid-carnival](https://github.com/DieHard073055/solid-carnival)
 <!--END_SECTION:activity-->
 
 <picture>
