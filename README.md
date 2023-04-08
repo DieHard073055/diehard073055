@@ -59,7 +59,7 @@ Other        0 secs          -------------------------   00.01 %
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=diehard073055&theme=juicyfresh&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=diehard073055&theme=darkhub" />
 </p>
 
 <p align="center">
