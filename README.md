@@ -55,10 +55,11 @@ Vim Script   6 mins          -------------------------   01.48 %
 Lua          1 min           -------------------------   00.25 %
 Other        0 secs          -------------------------   00.01 %
 ```
-
-<figure><embed src="https://wakatime.com/share/@e5cdae17-ff21-447b-88c4-dbcea5d0baa2/4578abe6-1ecf-4208-bbce-9cfc08a143ad.svg"></embed></figure>
-
 <!--END_SECTION:waka-->
+
+<p align="center">
+  <img alig src="https://wakatime.com/share/@e5cdae17-ff21-447b-88c4-dbcea5d0baa2/4578abe6-1ecf-4208-bbce-9cfc08a143ad.svg" />
+</p>
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=diehard073055&theme=darkhub" />
