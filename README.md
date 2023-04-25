@@ -44,7 +44,7 @@ Coding Patterns
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2023 - To: 22 April 2023
+From: 04 April 2023 - To: 23 April 2023
 
 Total Time: 23 hrs 26 mins
 
