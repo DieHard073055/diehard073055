@@ -82,11 +82,11 @@ Other        18 mins         -------------------------   01.33 %
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/DieHard073055/AI-Image-Generation-Pipeline/pull/3) in [DieHard073055/AI-Image-Generation-Pipeline](https://github.com/DieHard073055/AI-Image-Generation-Pipeline)
-2. 💪 Opened PR [#3](https://github.com/DieHard073055/AI-Image-Generation-Pipeline/pull/3) in [DieHard073055/AI-Image-Generation-Pipeline](https://github.com/DieHard073055/AI-Image-Generation-Pipeline)
-3. 💪 Opened PR [#2](https://github.com/DieHard073055/AI-Image-Generation-Pipeline/pull/2) in [DieHard073055/AI-Image-Generation-Pipeline](https://github.com/DieHard073055/AI-Image-Generation-Pipeline)
-4. 🎉 Merged PR [#1](https://github.com/DieHard073055/AI-Image-Generation-Pipeline/pull/1) in [DieHard073055/AI-Image-Generation-Pipeline](https://github.com/DieHard073055/AI-Image-Generation-Pipeline)
-5. 💪 Opened PR [#1](https://github.com/DieHard073055/AI-Image-Generation-Pipeline/pull/1) in [DieHard073055/AI-Image-Generation-Pipeline](https://github.com/DieHard073055/AI-Image-Generation-Pipeline)
+1. ❗️ Opened issue [#8](https://github.com/DieHard073055/rust-chatgpt-cli/issues/8) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
+2. ❗️ Opened issue [#7](https://github.com/DieHard073055/rust-chatgpt-cli/issues/7) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
+3. ❗️ Opened issue [#6](https://github.com/DieHard073055/rust-chatgpt-cli/issues/6) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
+4. ❗️ Opened issue [#5](https://github.com/DieHard073055/rust-chatgpt-cli/issues/5) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
+5. 🎉 Merged PR [#1](https://github.com/DieHard073055/rust-chatgpt-cli/pull/1) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
 <!--END_SECTION:activity-->
 
 <picture>
