@@ -44,15 +44,16 @@ Coding Patterns
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2023 - To: 24 April 2023
+From: 04 April 2023 - To: 26 April 2023
 
-Total Time: 23 hrs 48 mins
+Total Time: 29 hrs 52 mins
 
-Rust         16 hrs 42 mins  >>>>>>>>>>>>>>>>>>-------   70.21 %
-Markdown     3 hrs 12 mins   >>>----------------------   13.48 %
-Bash         2 hrs 30 mins   >>>----------------------   10.55 %
-YAML         45 mins         >------------------------   03.21 %
-Other        18 mins         -------------------------   01.32 %
+Rust         16 hrs 53 mins  >>>>>>>>>>>>>>-----------   56.56 %
+Python       5 hrs 15 mins   >>>>---------------------   17.59 %
+Markdown     3 hrs 38 mins   >>>----------------------   12.18 %
+Bash         2 hrs 30 mins   >>-----------------------   08.41 %
+YAML         45 mins         >------------------------   02.56 %
+Other        18 mins         -------------------------   01.05 %
 ```
 
 <!--END_SECTION:waka-->
