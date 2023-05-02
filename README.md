@@ -83,11 +83,11 @@ Other        33 mins         -------------------------   01.76 %
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/DieHard073055/DiscordAsyncJobHandler/pull/8) in [DieHard073055/DiscordAsyncJobHandler](https://github.com/DieHard073055/DiscordAsyncJobHandler)
-2. ❗️ Closed issue [#13](https://github.com/DieHard073055/rust-chatgpt-cli/issues/13) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
-3. 🎉 Merged PR [#19](https://github.com/DieHard073055/rust-chatgpt-cli/pull/19) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
-4. 💪 Opened PR [#19](https://github.com/DieHard073055/rust-chatgpt-cli/pull/19) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
-5. ❗️ Closed issue [#12](https://github.com/DieHard073055/rust-chatgpt-cli/issues/12) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
+1. 🎉 Merged PR [#13](https://github.com/DieHard073055/DiscordAsyncJobHandler/pull/13) in [DieHard073055/DiscordAsyncJobHandler](https://github.com/DieHard073055/DiscordAsyncJobHandler)
+2. 🎉 Merged PR [#8](https://github.com/DieHard073055/DiscordAsyncJobHandler/pull/8) in [DieHard073055/DiscordAsyncJobHandler](https://github.com/DieHard073055/DiscordAsyncJobHandler)
+3. ❗️ Closed issue [#13](https://github.com/DieHard073055/rust-chatgpt-cli/issues/13) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
+4. 🎉 Merged PR [#19](https://github.com/DieHard073055/rust-chatgpt-cli/pull/19) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
+5. 💪 Opened PR [#19](https://github.com/DieHard073055/rust-chatgpt-cli/pull/19) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
 <!--END_SECTION:activity-->
 
 <picture>
