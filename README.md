@@ -83,11 +83,11 @@ Other        37 mins         -------------------------   01.88 %
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/DieHard073055/rust-chatgpt-cli/issues/23) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
-2. 🎉 Merged PR [#26](https://github.com/DieHard073055/rust-chatgpt-cli/pull/26) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
-3. 💪 Opened PR [#26](https://github.com/DieHard073055/rust-chatgpt-cli/pull/26) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
-4. 💪 Opened PR [#25](https://github.com/DieHard073055/rust-chatgpt-cli/pull/25) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
-5. ❗️ Opened issue [#24](https://github.com/DieHard073055/rust-chatgpt-cli/issues/24) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
+1. 🎉 Merged PR [#28](https://github.com/DieHard073055/rust-chatgpt-cli/pull/28) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
+2. 💪 Opened PR [#28](https://github.com/DieHard073055/rust-chatgpt-cli/pull/28) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
+3. 🎉 Merged PR [#27](https://github.com/DieHard073055/rust-chatgpt-cli/pull/27) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
+4. 💪 Opened PR [#27](https://github.com/DieHard073055/rust-chatgpt-cli/pull/27) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
+5. ❗️ Closed issue [#23](https://github.com/DieHard073055/rust-chatgpt-cli/issues/23) in [DieHard073055/rust-chatgpt-cli](https://github.com/DieHard073055/rust-chatgpt-cli)
 <!--END_SECTION:activity-->
 
 <picture>
