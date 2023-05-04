@@ -8,7 +8,7 @@ As a blockchain enthusiast, I'm deeply involved in the world of decentralized te
 
 In addition to Python and blockchain, I'm also well-versed in Rust programming. I find Rust's safety, performance, and concurrency features fascinating, and I actively contribute to Rust projects and libraries.
 
-On my GitHub, you'll find a variety of projects and repositories showcasing my work. I'm currently focused on automation projects like [DiscordAsyncJobHandler](https://github.com/DieHard073055/DiscordAsyncJobHandler) and exploring the potential of web3 technologies in areas like SmartContracts. I'm passionate about collaborating on exciting projects and contributing to open source initiatives.
+On my GitHub, you'll find a variety of projects and repositories showcasing my work. I'm currently focused on automation projects like [DiscordAsyncJobHandler](https://github.com/DieHard073055/DiscordAsyncJobHandler) / [AI-Image-Generation-Pipeline](https://github.com/DieHard073055/AI-Image-Generation-Pipeline) and exploring the potential of web3 technologies in areas like SmartContracts. I'm passionate about collaborating on exciting projects and contributing to open source initiatives.
 
 Feel free to explore my repositories, check out my code, and connect with me on [LinkedIn](https://www.linkedin.com/in/eshanshafeeq/) to discuss automation, blockchain, Rust, or any other interesting opportunities.
 
