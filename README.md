@@ -1,46 +1,67 @@
-![Header](/assets/github-header-image.png)
-![Work in Progress](/assets/WIP.gif "Work in Progress")
+### Hi there! 👋
+
+I'm Eshan Shafeeq, a passionate automation enthusiast and Rust engineer with a focus on blockchain and web3 development. Welcome to my GitHub profile!
+
+I love leveraging the power of Python to automate tasks and streamline processes. From building scripts to developing robust automation pipelines, I enjoy creating efficient solutions that save time and effort.
+
+As a blockchain enthusiast, I'm deeply involved in the world of decentralized technologies. I work with blockchain platforms, smart contracts, and web3 applications, constantly exploring innovative use cases and contributing to the decentralized ecosystem.
+
+In addition to Python and blockchain, I'm also well-versed in Rust programming. I find Rust's safety, performance, and concurrency features fascinating, and I actively contribute to Rust projects and libraries.
+
+On my GitHub, you'll find a variety of projects and repositories showcasing my work. I'm currently focused on automation projects like [DiscordAsyncJobHandler](https://github.com/DieHard073055/DiscordAsyncJobHandler) and exploring the potential of web3 technologies in areas like SmartContracts. I'm passionate about collaborating on exciting projects and contributing to open source initiatives.
+
+Feel free to explore my repositories, check out my code, and connect with me on [LinkedIn](https://www.linkedin.com/in/eshanshafeeq/) to discuss automation, blockchain, Rust, or any other interesting opportunities.
+
+Let's automate, decentralize, and build amazing things together! ✨
 
 
-<h2 align="center">Training Status</h2>
-<p align="center">
-  <img alig src="/assets/saitama_training.gif" />
-</p>
+<h2 align="center">Repositories im active with</h2>
+<table align="center">
+    <tr>
+      <th>Repositories</th>
+  </tr>
+    <tr>
+      <td>🤖 <a href="https://github.com/DieHard073055/rust-chatgpt-cli">rust-chatgpt-cli</a></td>
+    </tr>
+    <tr>
+      <td>🕴🏻 <a href="https://github.com/DieHard073055/DiscordAsyncJobHandler">DiscordAsyncJobHandler</a></td>
+    </tr>
+    <tr>
+      <td>🤸🏻 <a href="https://github.com/DieHard073055/nginx-lb-docker-template">NginX LoadBalancer</a></td>
+    </tr>
+    <tr>
+      <td>📈 <a href="https://github.com/DieHard073055/solid-carnival">Trading Exchange Simulator</a></td>
+    </tr>
+    <tr>
+      <td>🖥 <a href="https://github.com/DieHard073055/super-duper-octo-disc">LeetCode</a></td>
+    </tr>
+    <tr>
+    </tr>
+  </table>
+  <h2 align="center">What I am excited about!</h2>
+<table align="center">
+    <tr align="center">
+      <th align="center">Topics</th>
+    </tr>
+    <tr>
+      <td align="center">Mastering Rust 🦀</td>
+    </tr>
+    <tr>
+      <td align="center">Revisiting Javascript (Typescript, React) 👨‍🎤</td>
+    </tr>
+    <tr>
+      <td align="center">Smart Contracts (Solidity, Move) 👨‍⚖️</td>
+    </tr>
+    <tr>
+      <td align="center">System Design 👨‍🎨</td>
+    </tr>
+    <tr>
+      <td align="center">Coding Patterns 🕵️‍♂️</td>
+    </tr>
+  </table>
+<h2 align="center">My Telemetry Stats 🛰</h2>
 
-
-<p align="center">
-Mastering Rust 🦀  
-</p>
-<p align="center">
-Revisiting Javascript (Typescript, React)  
-</p>
-<p align="center">
-Revisiting AWS (Solutions Architect)  
-</p>
-<p align="center">
-Smart Contracts (Solidity, Move)  
-</p>
-<p align="center">
-System Design  
-</p>
-<p align="center">
-Coding Patterns  
-</p>
-
-<h2 align="center">Repos I am currently working on </h2>
-<p align="center">
-  <img alig src="/assets/Izuku_uses_Faux_100.gif" />
-</p>
-
-<p align="center">
- 📈 <a href="https://github.com/DieHard073055/solid-carnival">Trading Exchange Simulator</a></li>
-</p>
-<p align="center">
- 🖥  <a href="https://github.com/DieHard073055/super-duper-octo-disc">LeetCode</a></li>
-</p>
-
-
-<h2 align="center">Telemetry  🛰</h2>
+<h3 align="center"> Languages Ive Spent Most Time on (Past Month) </h3>
 <!--START_SECTION:waka-->
 
 ```text
@@ -58,22 +79,18 @@ Other        1 hr 4 mins     >------------------------   02.72 %
 
 <!--END_SECTION:waka-->
 
+<h3 align="center"> Languages / Editors Ive Spent Most Time on (Past Week) </h3>
 <p align="center">
   <img width="500" alig src="https://wakatime.com/share/@e5cdae17-ff21-447b-88c4-dbcea5d0baa2/4578abe6-1ecf-4208-bbce-9cfc08a143ad.svg" />
   <img width="500" alig src="https://wakatime.com/share/@e5cdae17-ff21-447b-88c4-dbcea5d0baa2/408d90d5-b838-4730-880e-a778bf51a460.svg" />
 </p>
 
+<h3 align="center"> My Github Trophies! </h3>
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=diehard073055&theme=darkhub" />
 </p>
 
-<p align="center">
-  <img alig src="https://github-readme-stats.vercel.app/api?username=diehard073055&show_icons=true&theme=radical&card_width=700" />
-</p>
-
-<p align="center">
-  <img alig src="https://github-readme-stats.vercel.app/api/top-langs/?username=diehard073055&theme=radical&card_width=700" />
-</p>
+<h3 align="center"> My Github Streak </h3>
 <p align="center">
   <img alig src="https://streak-stats.demolab.com?user=diehard073055&theme=dark&hide_border=true" />
 </p>
