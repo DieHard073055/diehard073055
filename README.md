@@ -104,9 +104,9 @@ TOML         53 mins         -------------------------   01.28 %
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/DieHard073055/pokemon-nextjs-13/issues/1) in [DieHard073055/pokemon-nextjs-13](https://github.com/DieHard073055/pokemon-nextjs-13)
+1. 🔒 Closed issue [#1](https://github.com/DieHard073055/pokemon-nextjs-13/issues/1) in [DieHard073055/pokemon-nextjs-13](https://github.com/DieHard073055/pokemon-nextjs-13)
 2. 🎉 Merged PR [#2](https://github.com/DieHard073055/pokemon-nextjs-13/pull/2) in [DieHard073055/pokemon-nextjs-13](https://github.com/DieHard073055/pokemon-nextjs-13)
-3. ❗️ Closed issue [#3](https://github.com/DieHard073055/supabase-hello-world/issues/3) in [DieHard073055/supabase-hello-world](https://github.com/DieHard073055/supabase-hello-world)
+3. 🔒 Closed issue [#3](https://github.com/DieHard073055/supabase-hello-world/issues/3) in [DieHard073055/supabase-hello-world](https://github.com/DieHard073055/supabase-hello-world)
 4. 🎉 Merged PR [#4](https://github.com/DieHard073055/supabase-hello-world/pull/4) in [DieHard073055/supabase-hello-world](https://github.com/DieHard073055/supabase-hello-world)
 5. 💪 Opened PR [#4](https://github.com/DieHard073055/supabase-hello-world/pull/4) in [DieHard073055/supabase-hello-world](https://github.com/DieHard073055/supabase-hello-world)
 <!--END_SECTION:activity-->
