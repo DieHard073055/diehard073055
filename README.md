@@ -64,21 +64,21 @@ Let's automate, decentralize, and build amazing things together! ✨
 <h3 align="center"> Languages Ive Spent Most Time on (Past Month) </h3>
 <!--START_SECTION:waka-->
 
-```text
-From: 04 April 2023 - To: 31 May 2023
+```txt
+From: 04 April 2023 - To: 01 June 2023
 
-Total Time: 69 hrs 54 mins
+Total Time: 71 hrs 5 mins
 
-Rust         28 hrs 34 mins  >>>>>>>>>>---------------   40.87 %
-TypeScript   10 hrs 3 mins   >>>>---------------------   14.39 %
-Python       7 hrs 44 mins   >>>----------------------   11.08 %
-Markdown     4 hrs 56 mins   >>-----------------------   07.06 %
-JavaScript   4 hrs 26 mins   >>-----------------------   06.36 %
-Bash         4 hrs 15 mins   >>-----------------------   06.09 %
-Text         2 hrs 13 mins   >------------------------   03.18 %
-YAML         2 hrs 8 mins    >------------------------   03.08 %
-Other        1 hr 20 mins    -------------------------   01.93 %
-TOML         53 mins         -------------------------   01.28 %
+Rust         28 hrs 34 mins  >>>>>>>>>>---------------   40.20 %
+TypeScript   11 hrs 2 mins   >>>>---------------------   15.54 %
+Python       7 hrs 44 mins   >>>----------------------   10.90 %
+Markdown     4 hrs 56 mins   >>-----------------------   06.95 %
+JavaScript   4 hrs 34 mins   >>-----------------------   06.44 %
+Bash         4 hrs 17 mins   >>-----------------------   06.04 %
+Text         2 hrs 13 mins   >------------------------   03.13 %
+YAML         2 hrs 8 mins    >------------------------   03.02 %
+Other        1 hr 20 mins    -------------------------   01.89 %
+TOML         53 mins         -------------------------   01.25 %
 ```
 
 <!--END_SECTION:waka-->
