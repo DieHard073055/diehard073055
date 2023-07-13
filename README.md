@@ -65,20 +65,20 @@ Let's automate, decentralize, and build amazing things together! ✨
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2023 - To: 10 July 2023
+From: 04 April 2023 - To: 12 July 2023
 
-Total Time: 101 hrs 10 mins
+Total Time: 103 hrs 27 mins
 
-TypeScript       37 hrs 32 mins  >>>>>>>>>----------------   37.11 %
-Rust             28 hrs 59 mins  >>>>>>>------------------   28.66 %
-Python           7 hrs 59 mins   >>-----------------------   07.89 %
-Markdown         4 hrs 59 mins   >------------------------   04.93 %
-JavaScript       4 hrs 38 mins   >------------------------   04.60 %
-Bash             4 hrs 17 mins   >------------------------   04.25 %
-Text             2 hrs 27 mins   >------------------------   02.44 %
-YAML             2 hrs 12 mins   >------------------------   02.19 %
-CSS              1 hr 28 mins    -------------------------   01.46 %
-HTML             1 hr 26 mins    -------------------------   01.42 %
+TypeScript       39 hrs 30 mins  >>>>>>>>>>---------------   38.18 %
+Rust             28 hrs 59 mins  >>>>>>>------------------   28.03 %
+Python           7 hrs 59 mins   >>-----------------------   07.72 %
+Markdown         4 hrs 59 mins   >------------------------   04.82 %
+JavaScript       4 hrs 38 mins   >------------------------   04.49 %
+Bash             4 hrs 17 mins   >------------------------   04.15 %
+Text             2 hrs 27 mins   >------------------------   02.38 %
+YAML             2 hrs 12 mins   >------------------------   02.14 %
+CSS              1 hr 28 mins    -------------------------   01.43 %
+HTML             1 hr 26 mins    -------------------------   01.39 %
 ```
 
 <!--END_SECTION:waka-->
