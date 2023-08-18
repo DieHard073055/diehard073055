@@ -65,7 +65,7 @@ Let's automate, decentralize, and build amazing things together! ✨
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2023 - To: 16 August 2023
+From: 04 April 2023 - To: 17 August 2023
 
 Total Time: 119 hrs 14 mins
 
