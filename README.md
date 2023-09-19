@@ -8,29 +8,10 @@ I am Eshan Shafeeq from the Maldives, Spent most of my early career in IoT, Now 
  - 🌮 [Crafting a DIY Intervalometer: My Journey from GoPro to DSLR Timelapses](https://eshanshafeeq.hashnode.dev/crafting-a-diy-intervalometer-my-journey-from-gopro-to-dslr-timelapses)
  - 🚀 [Calculating Price Impact for Uniswap V3 Using Ethers](https://eshanshafeeq.hashnode.dev/calculating-price-impact-for-uniswap-v3-using-ethers)
  - 💯 [Understanding Memory Allocation in Rust Through Building a Custom Vector](https://eshanshafeeq.hashnode.dev/understanding-memory-allocation-in-rust-through-building-a-custom-vector)<!-- BLOGPOSTS:END -->
-<h2 align="center">Repositories Im active with</h2>
-<table align="center">
-    <tr>
-      <th>Repositories</th>
-  </tr>
-    <tr>
-      <td>🤖 <a href="https://github.com/DieHard073055/rust-chatgpt-cli">rust-chatgpt-cli</a></td>
-    </tr>
-    <tr>
-      <td>🕴🏻 <a href="https://github.com/DieHard073055/DiscordAsyncJobHandler">DiscordAsyncJobHandler</a></td>
-    </tr>
-    <tr>
-      <td>🤸🏻 <a href="https://github.com/DieHard073055/nginx-lb-docker-template">NginX LoadBalancer</a></td>
-    </tr>
-    <tr>
-      <td>📈 <a href="https://github.com/DieHard073055/solid-carnival">Trading Exchange Simulator</a></td>
-    </tr>
-    <tr>
-      <td>🖥 <a href="https://github.com/DieHard073055/super-duper-octo-disco">LeetCode</a></td>
-    </tr>
-    <tr>
-    </tr>
-  </table>
+
+### Repositories I have been working on
+<!-- start: YOUR_STARTER -->
+<!-- end: YOUR_STARTER -->
 
 <h2 align="center">My Telemetry Stats 🛰</h2>
 
