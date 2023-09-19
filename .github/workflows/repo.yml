@@ -2,6 +2,7 @@ name: README Repos List
 on:
   schedule:
     - cron: "0 0 * * 1"
+  workflow_dispatch:
 jobs:
   list:
     runs-on: ubuntu-latest
