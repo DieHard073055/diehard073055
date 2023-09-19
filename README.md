@@ -9,10 +9,6 @@ I am Eshan Shafeeq from the Maldives, Spent most of my early career in IoT, Now 
  - 🚀 [Calculating Price Impact for Uniswap V3 Using Ethers](https://eshanshafeeq.hashnode.dev/calculating-price-impact-for-uniswap-v3-using-ethers)
  - 💯 [Understanding Memory Allocation in Rust Through Building a Custom Vector](https://eshanshafeeq.hashnode.dev/understanding-memory-allocation-in-rust-through-building-a-custom-vector)<!-- BLOGPOSTS:END -->
 
-### Repositories I have been working on
-<!-- start: YOUR_STARTER -->
-<!-- end: YOUR_STARTER -->
-
 <h2 align="center">My Telemetry Stats 🛰</h2>
 
 <h3 align="center"> Languages Ive Spent Most Time on (Past Month) </h3>
