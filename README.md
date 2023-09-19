@@ -20,7 +20,7 @@ I am Eshan Shafeeq from the Maldives, Spent most of my early career in IoT, Now 
       <td>📈 <a href="https://github.com/DieHard073055/solid-carnival">Trading Exchange Simulator</a></td>
     </tr>
     <tr>
-      <td>🖥 <a href="https://github.com/DieHard073055/super-duper-octo-disc">LeetCode</a></td>
+      <td>🖥 <a href="https://github.com/DieHard073055/super-duper-octo-disco">LeetCode</a></td>
     </tr>
     <tr>
     </tr>
