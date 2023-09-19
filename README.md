@@ -25,27 +25,9 @@ I am Eshan Shafeeq from the Maldives, Spent most of my early career in IoT, Now 
     <tr>
     </tr>
   </table>
-  <h2 align="center">What I am excited about!</h2>
-<table align="center">
-    <tr align="center">
-      <th align="center">Topics</th>
-    </tr>
-    <tr>
-      <td align="center">Mastering Rust 🦀</td>
-    </tr>
-    <tr>
-      <td align="center">Revisiting Javascript (Typescript, React) 👨‍🎤</td>
-    </tr>
-    <tr>
-      <td align="center">Smart Contracts (Solidity, Move) 👨‍⚖️</td>
-    </tr>
-    <tr>
-      <td align="center">System Design 👨‍🎨</td>
-    </tr>
-    <tr>
-      <td align="center">Coding Patterns 🕵️‍♂️</td>
-    </tr>
-  </table>
+  <h2 align="center">My recent thoughts</h2>
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 <h2 align="center">My Telemetry Stats 🛰</h2>
 
 <h3 align="center"> Languages Ive Spent Most Time on (Past Month) </h3>
