@@ -25,7 +25,7 @@ I am Eshan Shafeeq from the Maldives, Spent most of my early career in IoT, Now 
     <tr>
     </tr>
   </table>
-  <h2 align="center">My recent thoughts</h2>
+  <h2 align="center">My Recent Thoughts</h2>
 <!-- BLOGPOSTS:START -->
 <!-- BLOGPOSTS:END -->
 <h2 align="center">My Telemetry Stats 🛰</h2>
