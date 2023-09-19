@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am Eshan Shafeeq from the Maldives, Spent most of my early career in IoT, Now focused on Web3.
+I am Eshan Shafeeq from the Maldives, Spent most of my early career in IoT, Now focusing on Web3 and Rust.
 ### My Recent Thoughts
 <!-- BLOGPOSTS:START -->
  - 🌮 [Creating a Kernel Module for LED Status Control](https://eshanshafeeq.hashnode.dev/creating-a-kernel-module-for-led-status-control)
