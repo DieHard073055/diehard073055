@@ -1,21 +1,8 @@
 ### Hi there! 👋
 
-I'm Eshan Shafeeq, a passionate automation enthusiast and Rust engineer with a focus on blockchain and web3 development. Welcome to my GitHub profile!
+I am Eshan Shafeeq from the Maldives, Spent most of my early career in IoT, Now focused on Web3.
 
-I love leveraging the power of Python to automate tasks and streamline processes. From building scripts to developing robust automation pipelines, I enjoy creating efficient solutions that save time and effort.
-
-As a blockchain enthusiast, I'm deeply involved in the world of decentralized technologies. I work with blockchain platforms, smart contracts, and web3 applications, constantly exploring innovative use cases and contributing to the decentralized ecosystem.
-
-In addition to Python and blockchain, I'm also well-versed in Rust programming. I find Rust's safety, performance, and concurrency features fascinating, and I actively contribute to Rust projects and libraries.
-
-On my GitHub, you'll find a variety of projects and repositories showcasing my work. I'm currently focused on automation projects like [DiscordAsyncJobHandler](https://github.com/DieHard073055/DiscordAsyncJobHandler) / [AI-Image-Generation-Pipeline](https://github.com/DieHard073055/AI-Image-Generation-Pipeline) and exploring the potential of web3 technologies in areas like SmartContracts. I'm passionate about collaborating on exciting projects and contributing to open source initiatives.
-
-Feel free to explore my repositories, check out my code, and connect with me on [LinkedIn](https://www.linkedin.com/in/eshanshafeeq/) to discuss automation, blockchain, Rust, or any other interesting opportunities.
-
-Let's automate, decentralize, and build amazing things together! ✨
-
-
-<h2 align="center">Repositories im active with</h2>
+<h2 align="center">Repositories Im active with</h2>
 <table align="center">
     <tr>
       <th>Repositories</th>
