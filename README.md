@@ -1,7 +1,13 @@
 ### Hi there! 👋
 
 I am Eshan Shafeeq from the Maldives, Spent most of my early career in IoT, Now focused on Web3.
-
+### My Recent Thoughts
+<!-- BLOGPOSTS:START -->
+ - 🌮 [Creating a Kernel Module for LED Status Control](https://eshanshafeeq.hashnode.dev/creating-a-kernel-module-for-led-status-control)
+ - 🌮 [Sharing Internet via Ethernet Cable on Linux](https://eshanshafeeq.hashnode.dev/sharing-internet-via-ethernet-cable-on-linux)
+ - 🌮 [Crafting a DIY Intervalometer: My Journey from GoPro to DSLR Timelapses](https://eshanshafeeq.hashnode.dev/crafting-a-diy-intervalometer-my-journey-from-gopro-to-dslr-timelapses)
+ - 🚀 [Calculating Price Impact for Uniswap V3 Using Ethers](https://eshanshafeeq.hashnode.dev/calculating-price-impact-for-uniswap-v3-using-ethers)
+ - 💯 [Understanding Memory Allocation in Rust Through Building a Custom Vector](https://eshanshafeeq.hashnode.dev/understanding-memory-allocation-in-rust-through-building-a-custom-vector)<!-- BLOGPOSTS:END -->
 <h2 align="center">Repositories Im active with</h2>
 <table align="center">
     <tr>
@@ -25,13 +31,7 @@ I am Eshan Shafeeq from the Maldives, Spent most of my early career in IoT, Now 
     <tr>
     </tr>
   </table>
-  <h2 align="center">My Recent Thoughts</h2>
-<!-- BLOGPOSTS:START -->
- - 🌮 [Creating a Kernel Module for LED Status Control](https://eshanshafeeq.hashnode.dev/creating-a-kernel-module-for-led-status-control)
- - 🌮 [Sharing Internet via Ethernet Cable on Linux](https://eshanshafeeq.hashnode.dev/sharing-internet-via-ethernet-cable-on-linux)
- - 🌮 [Crafting a DIY Intervalometer: My Journey from GoPro to DSLR Timelapses](https://eshanshafeeq.hashnode.dev/crafting-a-diy-intervalometer-my-journey-from-gopro-to-dslr-timelapses)
- - 🚀 [Calculating Price Impact for Uniswap V3 Using Ethers](https://eshanshafeeq.hashnode.dev/calculating-price-impact-for-uniswap-v3-using-ethers)
- - 💯 [Understanding Memory Allocation in Rust Through Building a Custom Vector](https://eshanshafeeq.hashnode.dev/understanding-memory-allocation-in-rust-through-building-a-custom-vector)<!-- BLOGPOSTS:END -->
+
 <h2 align="center">My Telemetry Stats 🛰</h2>
 
 <h3 align="center"> Languages Ive Spent Most Time on (Past Month) </h3>
