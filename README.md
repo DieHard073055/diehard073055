@@ -54,8 +54,8 @@ CSS              1 hr 28 mins    -------------------------   01.06 %
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/DieHard073055/rust-sqlx/issues/1) in [DieHard073055/rust-sqlx](https://github.com/DieHard073055/rust-sqlx)
-2. 🎉 Merged PR [#2](https://github.com/DieHard073055/pokemon-nextjs-13/pull/2) in [DieHard073055/pokemon-nextjs-13](https://github.com/DieHard073055/pokemon-nextjs-13)
+1. 🔒 Closed issue [#1](https://github.com/DieHard073055/rust-sqlx/issues/1) in [DieHard073055/rust-sqlx](https://github.com/DieHard073055/rust-sqlx)
+2. ❗ Opened issue [#1](https://github.com/DieHard073055/rust-sqlx/issues/1) in [DieHard073055/rust-sqlx](https://github.com/DieHard073055/rust-sqlx)
 3. 🔒 Closed issue [#3](https://github.com/DieHard073055/supabase-hello-world/issues/3) in [DieHard073055/supabase-hello-world](https://github.com/DieHard073055/supabase-hello-world)
 4. 🎉 Merged PR [#4](https://github.com/DieHard073055/supabase-hello-world/pull/4) in [DieHard073055/supabase-hello-world](https://github.com/DieHard073055/supabase-hello-world)
 5. 💪 Opened PR [#4](https://github.com/DieHard073055/supabase-hello-world/pull/4) in [DieHard073055/supabase-hello-world](https://github.com/DieHard073055/supabase-hello-world)
