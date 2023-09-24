@@ -15,7 +15,7 @@ I am Eshan Shafeeq from the Maldives, Spent most of my early career in IoT, Now 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2023 - To: 21 September 2023
+From: 04 April 2023 - To: 22 September 2023
 
 Total Time: 139 hrs 57 mins
 
