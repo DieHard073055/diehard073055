@@ -15,20 +15,20 @@ I am Eshan Shafeeq from the Maldives, Spent most of my early career in IoT, Now 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2023 - To: 10 August 2024
+From: 04 April 2023 - To: 11 August 2024
 
-Total Time: 163 hrs 34 mins
+Total Time: 166 hrs 56 mins
 
-TypeScript       52 hrs 54 mins  >>>>>>>>-----------------   32.35 %
-Rust             42 hrs 51 mins  >>>>>>>------------------   26.20 %
-Python           33 hrs 38 mins  >>>>>--------------------   20.56 %
-JavaScript       5 hrs 50 mins   >------------------------   03.57 %
-Markdown         5 hrs 46 mins   >------------------------   03.53 %
-Bash             4 hrs 47 mins   >------------------------   02.93 %
-Other            3 hrs 41 mins   >------------------------   02.26 %
-Text             2 hrs 51 mins   -------------------------   01.75 %
-YAML             2 hrs 14 mins   -------------------------   01.37 %
-CSS              1 hr 28 mins    -------------------------   00.91 %
+TypeScript       52 hrs 54 mins  >>>>>>>>-----------------   31.70 %
+Rust             42 hrs 51 mins  >>>>>>-------------------   25.67 %
+Python           36 hrs 47 mins  >>>>>>-------------------   22.03 %
+JavaScript       5 hrs 50 mins   >------------------------   03.50 %
+Markdown         5 hrs 46 mins   >------------------------   03.46 %
+Bash             4 hrs 52 mins   >------------------------   02.92 %
+Other            3 hrs 41 mins   >------------------------   02.21 %
+Text             2 hrs 51 mins   -------------------------   01.71 %
+YAML             2 hrs 14 mins   -------------------------   01.34 %
+CSS              1 hr 28 mins    -------------------------   00.89 %
 ```
 
 <!--END_SECTION:waka-->
