@@ -1,68 +1,20 @@
-### Hi there! 👋
+<h1 align="center">Eshan Shafeeq</h1>
+<h3 align="center">Blockchain Engineer with a decade of experience in Software Engineering from the Maldives.</h3>
 
-I am Eshan Shafeeq from the Maldives, Spent most of my early career in IoT, Now focusing on Web3 and Rust.
-### My Recent Thoughts
-<!-- BLOGPOSTS:START -->
- - 🌮 [Creating a Kernel Module for LED Status Control](https://eshanshafeeq.hashnode.dev/creating-a-kernel-module-for-led-status-control)
- - 🌮 [Sharing Internet via Ethernet Cable on Linux](https://eshanshafeeq.hashnode.dev/sharing-internet-via-ethernet-cable-on-linux)
- - 🌮 [Crafting a DIY Intervalometer: My Journey from GoPro to DSLR Timelapses](https://eshanshafeeq.hashnode.dev/crafting-a-diy-intervalometer-my-journey-from-gopro-to-dslr-timelapses)
- - 🚀 [Calculating Price Impact for Uniswap V3 Using Ethers](https://eshanshafeeq.hashnode.dev/calculating-price-impact-for-uniswap-v3-using-ethers)
- - 💯 [Understanding Memory Allocation in Rust Through Building a Custom Vector](https://eshanshafeeq.hashnode.dev/understanding-memory-allocation-in-rust-through-building-a-custom-vector)<!-- BLOGPOSTS:END -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diehard073055" alt="diehard073055" /></a> </p>
 
-<h2 align="center">My Telemetry Stats 🛰</h2>
-
-<h3 align="center"> Languages Ive Spent Most Time on (Past Month) </h3>
-<!--START_SECTION:waka-->
-
-```txt
-From: 04 April 2023 - To: 27 April 2025
-
-Total Time: 181 hrs 1 min
-
-TypeScript       52 hrs 54 mins  >>>>>>>------------------   29.23 %
-Python           45 hrs 18 mins  >>>>>>-------------------   25.03 %
-Rust             45 hrs          >>>>>>-------------------   24.86 %
-Markdown         6 hrs 44 mins   >------------------------   03.72 %
-JavaScript       5 hrs 56 mins   >------------------------   03.28 %
-Bash             4 hrs 56 mins   >------------------------   02.73 %
-Text             4 hrs 21 mins   >------------------------   02.41 %
-Other            4 hrs 8 mins    >------------------------   02.29 %
-YAML             2 hrs 14 mins   -------------------------   01.24 %
-HTML             1 hr 36 mins    -------------------------   00.89 %
-```
-
-<!--END_SECTION:waka-->
-
-<h3 align="center"> Languages / Editors Ive Spent Most Time on (Past Week) </h3>
-<p align="center">
-  <img width="500" alig src="https://wakatime.com/share/@e5cdae17-ff21-447b-88c4-dbcea5d0baa2/4578abe6-1ecf-4208-bbce-9cfc08a143ad.svg" />
-  <img width="500" alig src="https://wakatime.com/share/@e5cdae17-ff21-447b-88c4-dbcea5d0baa2/408d90d5-b838-4730-880e-a778bf51a460.svg" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://hashnode.com/eshanshafeeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="eshanshafeeq" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/diehard073055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diehard073055" height="30" width="40" /></a>
 </p>
 
-<h3 align="center"> My Github Trophies! </h3>
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=diehard073055&theme=darkhub" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href
 
-<h3 align="center"> My Github Streak </h3>
-<p align="center">
-  <img alig src="https://streak-stats.demolab.com?user=diehard073055&theme=dark&hide_border=true" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diehard073055&show_icons=true&locale=en&layout=compact" alt="diehard073055" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diehard073055&show_icons=true&locale=en" alt="diehard073055" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diehard073055&" alt="diehard073055" /></p>
 
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/DieHard073055/rust-sqlx/issues/1) in [DieHard073055/rust-sqlx](https://github.com/DieHard073055/rust-sqlx)
-2. ❗ Opened issue [#1](https://github.com/DieHard073055/rust-sqlx/issues/1) in [DieHard073055/rust-sqlx](https://github.com/DieHard073055/rust-sqlx)
-3. 🔒 Closed issue [#3](https://github.com/DieHard073055/supabase-hello-world/issues/3) in [DieHard073055/supabase-hello-world](https://github.com/DieHard073055/supabase-hello-world)
-4. 🎉 Merged PR [#4](https://github.com/DieHard073055/supabase-hello-world/pull/4) in [DieHard073055/supabase-hello-world](https://github.com/DieHard073055/supabase-hello-world)
-5. 💪 Opened PR [#4](https://github.com/DieHard073055/supabase-hello-world/pull/4) in [DieHard073055/supabase-hello-world](https://github.com/DieHard073055/supabase-hello-world)
-<!--END_SECTION:activity-->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DieHard073055/diehard073055/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DieHard073055/diehard073055/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DieHard073055/diehard073055/output/github-contribution-grid-snake.svg" />
-</picture>
